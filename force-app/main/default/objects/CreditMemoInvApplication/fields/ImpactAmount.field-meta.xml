@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ImpactAmount</fullName>
+    <inlineHelpText>Die Auswirkung auf den Saldo der Gutschrift und der Rechnung. Anträge vom Typ &quot;Nicht angewendet&quot; haben eine negative Auswirkung, während Anträge vom Typ &quot;Angewendet&quot; eine positive Auswirkung haben.</inlineHelpText>
+</CustomField>

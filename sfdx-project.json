@@ -1,0 +1,23 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "demo",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "registryPresets": [
+    "decomposeCustomLabelsBeta",
+    "decomposePermissionSetBeta",
+    "decomposeSharingRulesBeta",
+    "decomposeWorkflowBeta"
+],
+  "plugins": {
+    "sfdx-plugin-prettier": {
+      "enabled": true
+    }
+  }
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DiscountOrder</fullName>
+    <inlineHelpText>Wählen Sie aus, ob Rabatte zuerst auf die teuersten oder die günstigsten Produkte angewendet werden sollen.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

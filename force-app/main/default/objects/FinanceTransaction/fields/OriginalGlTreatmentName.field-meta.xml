@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>OriginalGlTreatmentName</fullName>
+    <inlineHelpText>Der Name des Hauptbuchverfahrens der Finanztransaktion beim Erstellen der Finanztransaktion.</inlineHelpText>
+</CustomField>

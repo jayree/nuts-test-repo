@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MaximumUsageCount</fullName>
+    <inlineHelpText>Geben Sie die maximale Häufigkeit ein, mit der dieses Sonderangebot auf einen Einkaufswagen angewendet werden kann. Der Standardwert lautet 1.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

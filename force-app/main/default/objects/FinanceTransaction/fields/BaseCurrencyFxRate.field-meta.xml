@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>BaseCurrencyFxRate</fullName>
+    <inlineHelpText>Wechselkurs gemäß der Basiswährung für das Wechselkursdatum. Definieren Sie diesen Wert, damit er später bei der Währungsumrechnung verwendet werden kann.</inlineHelpText>
+</CustomField>

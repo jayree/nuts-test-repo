@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RestrictionQuantity</fullName>
+    <inlineHelpText>Geben Sie ein, wie viele Produkte diesen Rabatt erhalten können. Für eine unbegrenzte Menge lassen Sie das Feld leer. Dieses Feld ist obligatorisch, wenn der Anpassungstyp &quot;Gesamter Festpreis&quot; lautet.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

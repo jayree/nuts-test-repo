@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MaxValuesPerFacet</fullName>
+    <inlineHelpText>Legen Sie die maximale Anzahl von Werten fest, die pro Filter angezeigt werden sollen. Geben Sie einen Wert zwischen 1 und 100 ein.</inlineHelpText>
+</CustomField>

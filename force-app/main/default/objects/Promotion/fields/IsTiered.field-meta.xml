@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IsTiered</fullName>
+    <inlineHelpText>Diese Einstellung ist dauerhaft und kann nach dem Speichern des Sonderangebots nicht mehr geändert werden. Erstellen Sie stattdessen ein neues Sonderangebot.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LegalEntityId</fullName>
+    <inlineHelpText>Juristische Person, die mit der Finanztransaktion verbunden ist. Dies ist ein optionaler Nachschlagevorgang, den Sie hinzufügen können, um die Finanztransaktion mit den Hauptbuchregeln für die externe Hauptbuchverarbeitung zu verknüpfen.</inlineHelpText>
+    <type>Lookup</type>
+</CustomField>

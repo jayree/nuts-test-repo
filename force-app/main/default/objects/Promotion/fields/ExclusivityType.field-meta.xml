@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ExclusivityType</fullName>
+    <inlineHelpText>Wenn Sie das Sonderangebot mit anderen Sonderangeboten kombinieren möchten, wählen Sie &quot;Nein&quot; aus. Wenn Sie verhindern möchten, dass das Sonderangebot mit Sonderangeboten derselben Klasse kombiniert wird, wählen Sie &quot;Klasse&quot; aus. Wählen Sie &quot;Global&quot; aus, wenn dies das einzige Sonderangebot sein soll, das für einen gesamten Auftrag verwendet wird.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>
