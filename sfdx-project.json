@@ -13,5 +13,11 @@
     "sfdx-plugin-prettier": {
       "enabled": true
     }
-  }
+  },
+  "sourceBehaviorOptions": [
+    "decomposeWorkflowBeta",
+    "decomposeSharingRulesBeta",
+    "decomposeCustomLabelsBeta2",
+    "decomposePermissionSetBeta2"
+  ]
 }
